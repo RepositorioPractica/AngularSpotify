@@ -1,0 +1,18 @@
+bloque de pruebas
+
+Identificación del cliente 46c159ae3ef94fe8b11641d60e642df9
+Secreto del cliente 9c52df69e0a448e695f9b72d75aa27eb 
+
+
+Nota para la siguiente clase
+En la próxima clase usaremos este endpoint para realizar peticiones:
+
+https://restcountries.eu
+
+El cual ya no existe, ahora deben de usar este:
+
+https://restcountries.com/
+
+
+
+Es todo! :)`
